@@ -1,0 +1,135 @@
+.container1{
+    background-color: #03164c;
+    height: 100px;
+
+}
+.logo{
+    padding: 30px;
+    padding-left: 80px;
+
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 30px;
+}
+a:hover{
+    text-decoration: underline;
+    border: 2px solid white;
+}
+.link{
+    padding-top: 30px;
+}
+.jumbo{
+    background-color: gray;
+    width: 900px;
+    height: 300px;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+}
+.container2{
+    background-image: url("../images/2f55010c-b301-47a7-b83d-62f4454e6b53.JPG");
+    background-repeat: no-repeat;
+    height: 900px;
+    background-size: cover;
+
+}
+.search{
+    color: white;
+    font-size: 25px;
+}
+.butt{
+    background-color: darkblue;
+    height: 50px;
+    border: 3px solid darkblue;
+    border-radius: 10px;
+    width: 200px;
+    color: white;
+    margin-top: 60px;
+}
+.btnmove{
+    text-align: center;
+
+}
+
+.gym{
+    background-color: black;
+    color: white;
+}
+
+.img{
+    background-image: url("../images/4798ecca-daa2-44fa-b5ad-a73174e860c6.JPG");
+}
+.abt{
+    text-align: justify;
+    padding: 60px;
+    
+}
+.butt2{
+    background-color: orangered;
+    height: 50px;
+    width: 250px;
+    border: 5px solid orange;
+    border-radius: 10px;
+    color: white;
+}
+.container3{
+    
+}
+
+.cot{
+    text-align: center;
+}
+.under{
+    border-bottom: 2px solid skyblue;
+    width: 200px;
+    margin: auto;
+
+}
+.img2{
+    margin: auto;
+}
+.cont1{
+    text-align: center;
+
+}
+.our{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.our2{
+    border-bottom: 1px solid skyblue;
+    width: 300px;
+    margin: auto;
+}
+.butt3{
+    margin: auto;
+    background-color: #03164c;
+    color: wheat;
+    width: 150px;
+    height: 50px;
+    border-radius: 6px;
+}
+.contain2{
+    background-image: url("../images/d23af2e9-9db5-4e2c-924b-9625013420f1.JPG");
+    margin-top: 30px;
+    height: 500px;
+    padding-left: 40px;
+   
+}
+.cot2{
+    color: white;
+    margin-top: 40px;
+}
+.text{
+    font-size: 60px;
+}
+.butt4{
+    padding: 10px;
+    background-color: darkorange;
+    color: wheat;
+    border-radius: 5px;
+}

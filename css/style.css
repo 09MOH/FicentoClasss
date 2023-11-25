@@ -1,0 +1,154 @@
+.header{
+    background-color: #03164c;
+    color: white;
+    width: 100%;
+    height: 100px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+}
+
+.logo{
+ 
+    padding-left: 20px;
+    float: left;
+    margin-right: 250px;
+    font-size: xx-large;
+
+}
+.nav{
+    padding: 40px;
+    float: left;
+    margin-right: 150px;
+
+}
+.header1{
+    background-repeat: no-repeat;
+    background-image: url("../images/2f55010c-b301-47a7-b83d-62f4454e6b53.JPG");
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    padding-top: 200px;
+}
+.logo2{
+    background-color: gray;
+    text-align: center;
+    width: 90%;
+    height: 250px;
+    border-radius: 20px;
+    margin: auto;
+}
+.contactbutton{
+    margin: auto;
+    text-align: center;
+   
+}
+.button{
+    color: white;
+    background-color: #03164c;
+}
+.text{
+    color: white;
+}
+.text1{
+   color: #03164c;
+}
+.text2{
+    color: white;
+}
+.header2{
+    width: 100%;
+    font-size: x-large;
+    text-align: center;
+}
+.header3{
+    width: 100%;
+    clear: both;
+}
+.header4{
+    clear: both;
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+.about{
+    background-color: rgba(6, 1, 1, 0.816);
+    color: white;
+    width: 50%;
+    height: 600px;
+    text-align: justify;
+    float: left;
+}
+.about2{
+    margin: auto;
+    border-bottom: 1px solid skyblue;
+    width: 300px;
+    margin-top: -30px;
+}
+.button2{
+    color: white;
+    background-color: rgb(223, 145, 0);
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+.img1{
+    width: 50%;
+    height: 600px;
+    background-image: url("../images/4798ecca-daa2-44fa-b5ad-a73174e860c6.JPG");
+    float: left;
+    background-size: cover;
+}
+
+.space{
+    padding: 20px;
+}
+.images{
+    float: left;
+    padding-right: 80px;
+    text-align: center;
+}
+.Button3{
+    height: 200px;
+    width: 60px;
+    clear: both;
+    margin: auto;
+    color: #03164c;
+}
+#Button3{
+   color: white;
+   width: 100px;
+   height:40px;
+   border-radius: 5px;
+   background-color: darkblue;
+}
+.header5{
+    background-image: url("../images/d23af2e9-9db5-4e2c-924b-9625013420f1.JPG");
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    clear: both;
+    margin-top: -100px;
+    
+}
+.text3{
+    color: white;
+    padding: 30px;
+    margin-top: -80px;
+}
+.Button4{
+    color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: darkorange;
+}
+
+.spa{
+    padding-left: 100px;
+    padding-top: 100px;
+}
